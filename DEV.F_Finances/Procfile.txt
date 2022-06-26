@@ -1,1 +1,0 @@
-web: sh setup.sh && streamline run DEV.F_Finances.py
